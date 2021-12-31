@@ -1,5 +1,7 @@
 # Netflix-Pricing for Consumer Subscription
 
+![Screenshot](netflix2.jpg)
+
 # Problem Statement(Interviewer)
 You are working as a data scientist at Netflix on their  pricing team.Netflix is a subscription business so Netflix charges a monthly price for the consumer to pay given this price they have decided. How can you determine if the price of the Netflix subscription is actaully a deciding factor for a consumer to buy?
 
