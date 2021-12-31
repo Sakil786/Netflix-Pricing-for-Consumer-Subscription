@@ -52,3 +52,5 @@ Data might have different sort of dimensions but here we will be talking about t
 
 # Model Creation:
 After getting the data and selecting important features, now we are going to create the model.In this part ,we will give the ranking to each feature and train the model.If the price feature is in first ranking we can say that price is the determing factor for the consumer to buy subscription.Based on the problem statement,your model may be regression,classification,recommendation system ,you can even talk about deep learning technique.
+
+![Screenshot](netflix3.jpg)
