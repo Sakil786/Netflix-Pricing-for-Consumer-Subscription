@@ -1,4 +1,4 @@
-# Netflix-Pricing
+# Netflix-Pricing for Consumer Subscription
 
 # Problem Statement(Interviewer)
 You are working as a data scientist at Netflix on their  pricing team.Netflix is a subscription business so Netflix charges a monthly price for the consumer to pay given this price they have decided. How can you determine if the price of the Netflix subscription is actaully a deciding factor for a consumer to buy?
@@ -42,6 +42,11 @@ To run above solution, Firstly I require data then after I will create model and
 
 # Data Gathering:
 Being interviewee, you need to explain how will you collect the data, what types of data you require, what is the period of data you are expecting.
-Data might have different sort of dimensions but here we will be talking three main features of the data:
+Data might have different sort of dimensions but here we will be talking about the following main features of the data:
 * Price
-* Consumption measure like time span,likes ,dislikes shared among the friends.
+* Consumption measures and interaction measures like time span,likes ,dislikes shared among the friends.
+* time metric like tenure
+* demographic or attitudinal like the user is living in certain zip code
+
+# Model Creation:
+After getting the data and selecting important features, now we are going to create the model.In this part ,we will give the ranking to each feature and train the model.If the price feature is in first ranking we can say that price is the determing factor for the consumer to buy subscription.Based on the problem statement,your model may be regression,classification,recommendation system ,you can even talk about deep learning technique.
